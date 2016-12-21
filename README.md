@@ -1,7 +1,7 @@
 # DRS
 Deep recommendation system
 
-| 회차  | 일시   | 내용                                  | 발표자  |              자료                   |
+| 회차  | 일시   | 내용                                  | 발표자  | 자료             |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |  12/14  | (책) 1. Brave New Realtime World : Introduction  | 김성동 |                          |
 |   |        | (책) 2. Strange Recommendations? On the Weaknesses | 김성동 |   |
