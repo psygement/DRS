@@ -4,11 +4,15 @@ Deep recommendation system
 | 회차  | 일시   | 내용                                  | 발표자  | 자료             |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |  12/14  | (책) 1. Brave New Realtime World : Introduction  | 김성동 |                          |
-|   |        | (책) 2. Strange Recommendations? On the Weaknesses | 김성동 |   |
-|   |        | (논문)Deep Reinforcement Learning in Large Discrete Action Spaces | 김무성 |                                |
-| 2 |  12/21 | (책) 3. Changing Not Just Analyzing: Control Theory andReinforcementLearning  | 김성근 |                    |
-|   |        | (논문)2 Strange Recommendations? On the Weaknesses | 김성동 |   |
-|   |        | (논문)Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions | 김무성 |                                |
+|   |        | (책) 2. Strange Recommendations? On the Weaknesses of Current Recommendation Engines | 김성동 |   |
+|   |        | (논문) Deep Reinforcement Learning in Large Discrete Action Spaces | 김무성 |                                |
+| 2 |  12/21 | (책) 3. Changing Not Just Analyzing: Control Theory and Reinforcement Learning (1) | 김성근 |                    |
+|   |        | (논문) Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions | 김무성 |                                |
+| 3 |  12/28 | (책) 3. Changing Not Just Analyzing: Control Theory and Reinforcement Learning (2) | 김성근 |                    |
+|   |        | (책) 4 Recommendations as a Game: Reinforcement Learning for Recommendation Engines | 김무성 |              |
+|   |        | (논문) Wide & Deep Learning for Recommender Systems | 김성동 |                                |
+
+
 
 # 논문 리스트 
 * Wide & Deep Learning for Recommender Systems
