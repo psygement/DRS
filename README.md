@@ -42,5 +42,5 @@ Deep recommendation system
   - https://arxiv.org/abs/1605.09477
 * Restricted Boltzmann Machines for Collaborative Filtering
   - http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf
-* Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks
-  - https://arxiv.org/abs/1611.00454
+* An MDP-Based Recommender System
+  - https://arxiv.org/pdf/1301.0600.pdf
